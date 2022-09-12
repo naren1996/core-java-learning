@@ -1,1 +1,1 @@
-# Core Java Learnings
+# Core Java
